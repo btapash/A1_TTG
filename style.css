@@ -1,0 +1,22 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(backg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+ }
+ .box{
+    width: 450px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    color: white;
+}
+.profile{
+  border-radius: 50%;
+  width: 230px;
+  height: 200px;
+  }
+  
